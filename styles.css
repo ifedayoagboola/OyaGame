@@ -26,6 +26,7 @@ body {
 }
 .container {
   max-width:1440px;
+  margin:0 auto;
 }
 ul {
   list-style-type: none;
@@ -176,6 +177,9 @@ a {
   color: #666666;
   letter-spacing: 0em;
   text-align: left;
+}
+.section-3{
+  position:relative;
 }
 .mother {
   position: absolute;
