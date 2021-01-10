@@ -178,11 +178,6 @@ a {
   letter-spacing: 0em;
   text-align: left;
 }
-.relative-container{
-  width:1440px;
-  margin:0 auto;
-  position:relative;
-}
 .mother {
   position: absolute;
   width: 923px;
