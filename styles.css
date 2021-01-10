@@ -180,15 +180,15 @@ a {
 }
 .mother {
   position: absolute;
-  width: 790px;
+  width: 1024px;
   height: 764px;
-/*   left: 320px; */
+  left: 475px;
   top: 1592px;
   background: #f7941d;
 }
 .mother h1 {
   font-family: Titillium Web;
-  font-size: 58px;
+  font-size: 64px;
   font-style: normal;
   font-weight: 700;
   line-height: 72px;
@@ -214,7 +214,7 @@ a {
   position: absolute;
   width: 725px;
   height: 179px;
-  left: 0;
+  left: 550px;
   top: 1974px;
   background: #ffffff;
   box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.1);
