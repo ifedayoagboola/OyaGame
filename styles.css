@@ -178,9 +178,14 @@ a {
   letter-spacing: 0em;
   text-align: left;
 }
+.relative-container{
+  width:1440px;
+  margin:0 auto;
+  position:relative;
+}
 .mother {
   position: absolute;
-  width: 925px;
+  width: 923px;
   height: 764px;
   left: 425px;
   top: 1592px;
