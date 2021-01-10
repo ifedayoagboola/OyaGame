@@ -180,9 +180,9 @@ a {
 }
 .mother {
   position: absolute;
-  width: 700px;
+  width: 800px;
   height: 764px;
-  left: 320px;
+/*   left: 320px; */
   top: 1592px;
   background: #f7941d;
 }
