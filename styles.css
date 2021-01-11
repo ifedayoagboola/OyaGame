@@ -354,7 +354,7 @@ a {
   position: absolute;
   width: 180px;
   height: 180px;
-  left: 65.06%;
+  left: 55.06%;
   top: 175%;
   bottom: 24.08%;
   background: #cbc8ff;
@@ -368,7 +368,7 @@ a {
   position: absolute;
   width: 180px;
   height: 180px;
-  left: 70.07%;
+  left: 58.07%;
   top: 190.96%;
   bottom: 18.33%;
   background: #ff95c7;
@@ -382,8 +382,8 @@ a {
   position: absolute;
   width: 180px;
   height: 180px;
-  left: 82.89%;
-  top: 205.57%;
+  left: 72.89%;
+  top: 200.57%;
   background: #80cfff;
   border: 4px solid #ffffff;
   box-sizing: border-box;
@@ -466,4 +466,86 @@ a {
   line-height: 24px;
   text-align: center;
   color: #154e71;
+}
+footer {
+  position: absolute;
+  width: 100%;
+  height: 413px;
+  top: 3154px;
+  background: #0a0a1c;
+  border-radius: 4px;
+}
+footer h1 {
+  width: 639px;
+  height: 56px;
+  font-family: Titillium Web;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  color: #ffffff;
+}
+footer p {
+  width: 544px;
+  height: 24px;
+  font-family: Titillium Web;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+footer input {
+  width: 573px;
+  height: 56px;
+  background: rgba(255, 255, 255, 0.28);
+  backdrop-filter: blur(32px);
+  border-radius: 32px;
+}
+hr {
+  position: absolute;
+  width: 1120px;
+  height: 0px;
+  left: 158px;
+  /* top: 3486px; */
+  border: 1px solid #ffffff;
+}
+.footer-p {
+  position: absolute;
+  width: 202px;
+  height: 24px;
+  left: 159px;
+  top: 3502px;
+
+  font-family: Titillium Web;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  text-align: center;
+
+  color: rgba(255, 255, 255, 0.8);
+}
+.f-icon-1 {
+  position: absolute;
+  left: 29.17%;
+  top: 8.33%;
+
+  border: 2px solid rgba(255, 255, 255, 0.8);
+}
+.f-icon-2 {
+  position: absolute;
+  left: 4.17%;
+  top: 12.46%;
+
+  border: 2px solid rgba(255, 255, 255, 0.8);
+}
+.f-icon-3 {
+  position: absolute;
+  left: 33.51%;
+  top: 33.15%;
+
+  border: 2px solid rgba(255, 255, 255, 0.8);
 }
